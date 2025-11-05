@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Self-Taught <br><br>18yo developer building decentralized applications and learning blockchain technology f.<br><br>About Me:<br><br>Currently working on *NFT Marketplace with Solidity + React*<br><br>👯 I'm looking to collaborate on : Web3 projects and DeFi protocols<br><br>🤝 I'm looking for help with : Code Review,Guide<br><br>🌱 I'm currently learning  : Advanced Solidity, DeFi, and ZK-proofs<br><br>---<br><br>### 🛠 Tech Stack<br><br>*Blockchain:*<br>- Solidity<br>- Hardhat<br>- Ethers.js<br>- IPFS<br><br>*Frontend:*<br>- React<br>- TailwindCSS<br>- JavaScript<br><br>*Tools:*<br>- Git/GitHub<br>- MetaMask<br>- Vercel<br><br>
+Self-Taught <br><br>18yo developer building decentralized applications and learning blockchain technology .<br><br>About Me:<br><br>Currently working on *NFT Marketplace with Solidity + React*<br><br>👯 I'm looking to collaborate on : Web3 projects and DeFi protocols<br><br>🤝 I'm looking for help with : Code Review,Guide<br><br>🌱 I'm currently learning  : Advanced Solidity, DeFi, and ZK-proofs<br><br>---<br><br>### 🛠 Tech Stack<br><br>*Blockchain:*<br>- Solidity<br>- Hardhat<br>- Ethers.js<br>- IPFS<br><br>*Frontend:*<br>- React<br>- TailwindCSS<br>- JavaScript<br><br>*Tools:*<br>- Git/GitHub<br>- MetaMask<br>- Vercel<br><br>
 
 
 ## 🌐 Socials:
