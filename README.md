@@ -1,1 +1,1 @@
-<h3>On Chain Builder.</h3>
+<h3>Solidity Engineer. Focused on EVM & LayerZero.</h3>
