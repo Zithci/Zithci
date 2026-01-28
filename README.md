@@ -1,1 +1,1 @@
-<h3>Solidity Engineer. Focused on EVM & LayerZero.</h3>
+<h3>Backend-Solidity,DeFi, Cross-Chain, GO.</h3>
